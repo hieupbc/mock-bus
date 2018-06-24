@@ -1,0 +1,15 @@
+[DEBUG] 2018-06-21 01:31:55.845 [main] Log4j2Config - This is a debug message
+[INFO ] 2018-06-21 01:31:55.850 [main] Log4j2Config - This is an info message
+[WARN ] 2018-06-21 01:31:55.850 [main] Log4j2Config - This is a warn message
+[ERROR] 2018-06-21 01:31:55.850 [main] Log4j2Config - This is an error message
+[FATAL] 2018-06-21 01:31:55.851 [main] Log4j2Config - This is a fatal message
+[DEBUG] 2018-06-21 01:33:03.799 [main] Log4j2Config - This is a debug message
+[INFO ] 2018-06-21 01:33:03.805 [main] Log4j2Config - This is an info message
+[WARN ] 2018-06-21 01:33:03.805 [main] Log4j2Config - This is a warn message
+[ERROR] 2018-06-21 01:33:03.805 [main] Log4j2Config - This is an error message
+[FATAL] 2018-06-21 01:33:03.805 [main] Log4j2Config - This is a fatal message
+[DEBUG] 2018-06-22 21:33:58.916 [main] Log4j2Config - This is a debug message
+[INFO ] 2018-06-22 21:33:58.922 [main] Log4j2Config - This is an info message
+[WARN ] 2018-06-22 21:33:58.922 [main] Log4j2Config - This is a warn message
+[ERROR] 2018-06-22 21:33:58.922 [main] Log4j2Config - This is an error message
+[FATAL] 2018-06-22 21:33:58.922 [main] Log4j2Config - This is a fatal message
